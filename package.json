@@ -1,0 +1,15 @@
+{
+  "name": "hangzhou-weekend-page",
+  "version": "1.0.0",
+  "description": "Static GitHub Pages site for a two-day Hangzhou weekend itinerary for two girls.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "playwright": "^1.59.1"
+  }
+}
